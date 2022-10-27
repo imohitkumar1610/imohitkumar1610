@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mohitkumar91614@gmail.com**
 
-<h3 align="left">Connect with me:<span>https://www.linkedin.com/in/mohit-kumar-1678541b7/</span></h3>
+<h5 align="left">Connect with me:<span>https://www.linkedin.com/in/mohit-kumar-1678541b7/</span></h5>
 <p align="left">
 </p>
 
