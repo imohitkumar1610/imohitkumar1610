@@ -11,6 +11,8 @@
 
 - 💬 Ask me about **HTML, CSS, javaScript , c, c++**
 
+- 👯 I’m looking to collaborate on **Open-Source Projects, Computational Physics Projects**
+
 - 📫 How to reach me **mohitkumar91614@gmail.com**
 
 <h4 align="left">Connect with me:https://www.linkedin.com/in/mohit-kumar-1678541b7/</h4>
