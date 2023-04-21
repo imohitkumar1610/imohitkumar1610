@@ -9,7 +9,7 @@
 
 <!-- - 🌱 I’m currently learning **computer networks, react and data structues** -->
 
-<!-- - 💬 Ask me about **HTML, CSS, javaScript , c, c++** -->
+- 💬 Ask me about **HTML, CSS, javaScript , c, c++**
 
 - 👯 I’m looking to collaborate on **Open-Source Projects, Computational Physics Projects**
 
