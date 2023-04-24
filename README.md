@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=imohitkumar1610&label=Profile%20views&color=0e75b6&style=flat" alt="imohitkumar1610" /> </p> -->
 
-<p align="left"> <a href="https://twitter.com/" target=""><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/" target=""><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
 - 🌱 I’m currently learning **computer networks, react and data structues**
 
