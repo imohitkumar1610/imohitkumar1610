@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/" target=""><img src="https://img.shields.i
     o/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<!-- - 🌱 I’m currently learning **computer networks, react and data structues** -->
+- 🌱 I’m currently learning **computer networks, react and data structues**
 
 - 💬 Ask me about **HTML, CSS, javaScript , c, c++**
 
