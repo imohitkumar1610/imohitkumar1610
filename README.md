@@ -1,7 +1,7 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://imohitkumar1610.io)
     <h1 align="center">Hello 👋, I'm Mohit Kumar</h1>
 <h3 align="center">A passionate full stack developer from India.</h3>
-<!-- <img  align = "right" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="Coding Image"> -->
+<img  align = "right" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="Coding Image">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imohitkumar1610&label=Profile%20views&color=0e75b6&style=flat" alt="imohitkumar1610" /> </p>
 
